@@ -1,0 +1,40 @@
+1;CaseDepart;Départ;2000;0;aucune
+2;CaseRue;Boulevard de Belleville;100;10;violet fonce
+3;CaseDefault;Caisse de communauté;0;0;aucune
+4;CaseRue;Rue Lecourbe;100;10;violet fonce
+5;CaseImpots;Impots;500;0;aucune
+6;CaseGare;Gare Montparnasse;500;50;aucune
+7;CaseRue;Rue de Vaugirard;100;10;bleu clair
+8;CaseDefault;Chance;0;0;aucune
+9;CaseRue;Rue de Courcelles;100;10;bleu clair
+10;CaseRue;Rue de la République;100;10;bleu clair
+11;CaseDefault;Visite en Prison;0;0;aucune
+12;CaseRue;Boulevard de la vilette;100;10;violet clair
+13;CaseCompagnie;Compagnie de distribution d'électricité;250;25;aucune
+14;CaseRue;Avenue de Neuilly;100;10;violet clair
+15;CaseRue;Rue de Paradis;100;10;violet clair
+16;CaseGare;Gare de lyon;500;50;aucune
+17;CaseRue;Avenue Mozart;100;10;orange
+18;CaseDefault;Caisse de Communauté;0;0;aucune
+19;CaseRue;Boulevard Saint-Michel;100;10;orange
+20;CaseRue;Place Pigalle;100;10;orange
+21;CaseDefault;Parking;0;0;aucune
+22;CaseRue;Avenue Matignon;100;10;rouge
+23;CaseDefault;Chance;0;0;aucune
+24;CaseRue;Boulevard Malesherbes;100;10;rouge
+25;CaseRue;Avenue Henri-Martin;100;10;rouge
+26;CaseGare;Gare du Nord;500;50;aucune
+27;CaseRue;Faubourg Saint-Honoré;100;10;jaune
+28;CaseRue;Place de la Bourse;100;10;jaune
+29;CaseCompagnie;Compagnie de Distribution des Eaux;250;25;aucune
+30;CaseRue;Rue la Fayette;100;10;jaune
+31;CaseDefault;Prison;0;0;aucune
+32;CaseRue;Avenue de Breteuil;100;10;vert
+33;CaseRue;Avenue Foch;100;10;vert
+34;CaseDefault;Caisse de Communaute;0;0;aucune
+35;CaseRue;Boulevard des Capucines;100;10;vert
+36;CaseGare;Gare Saint-Lazare;500;50;aucune
+37;CaseDefault;chance;0;0;aucune
+38;CaseRue;Avenue des Champs Elysées;100;10;bleu fonce
+39;CaseTaxeDeLuxe;Taxe de luxe;500;0;aucune
+40;CaseRue;Rue de la Paix;100;10;bleu fonce
