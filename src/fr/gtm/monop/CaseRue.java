@@ -11,7 +11,7 @@ public class CaseRue extends CasePropriete {
 		// TODO Auto-generated constructor stub
 	}
 
-	@Override
+	@Override //
 	public void arreter(Joueur j) {
 		if (CaseRue.this.proprietaire == null || CaseRue.this.proprietaire.solde < 0) {		//Si la case Rue n'a aucun propriétaire ou si le solde du propriétaire de cette case Rue, est inférieur à zéro
 			if (j.isInterresse(prixAchat)) {												//Si le joueur est intéressé par la case Rue
